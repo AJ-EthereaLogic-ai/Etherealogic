@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://etherealogic.ai"><img src="https://img.shields.io/badge/Website-etherealogic.ai-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:anthony.johnson@etherealogic.ai"><img src="https://img.shields.io/badge/Email-anthony.johnson%40etherealogic.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:Anthony.johnsonii@etherealogic.ai"><img src="https://img.shields.io/badge/Email-Anthony.johnsonii%40etherealogic.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Building%20in%20Public-00C853?style=for-the-badge" />
 </p>
 
@@ -113,7 +113,7 @@ We believe the most important problems in AI aren't the flashiest ones — they'
 ### 📬 Contact
 
 - 🌐 [etherealogic.ai](https://etherealogic.ai)
-- ✉️ anthony.johnson@etherealogic.ai
+- ✉️ Anthony.johnsonii@etherealogic.ai
 
 ---
 
